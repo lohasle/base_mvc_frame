@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<decorators defaultdir="/decorators">
+	<!-- Any urls that are excluded will never be decorated by Sitemesh -->
+	<excludes>
+		<pattern>/static/*</pattern>
+        <!-- json js  -->
+		<pattern>*.*</pattern>
+		<pattern>/index</pattern>
+	</excludes>
+
+
+	<!-- 管理模块的装饰器，主要加载公用库 -->
+	<decorator name="require" page="common.jsp">
+		<pattern>*</pattern>
+	</decorator>
+
+
+</decorators>

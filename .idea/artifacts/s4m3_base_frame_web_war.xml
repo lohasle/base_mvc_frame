@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="s4m3_base_frame_web:war">
+    <output-path>$PROJECT_DIR$/Web/target</output-path>
+    <root id="archive" name="Web.war">
+      <element id="artifact" artifact-name="s4m3_base_frame_web:war exploded" />
+    </root>
+  </artifact>
+</component>

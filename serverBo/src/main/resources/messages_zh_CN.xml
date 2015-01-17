@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>提示消息</comment>
+
+    <entry key="addSuccess">添加{0}成功！</entry>
+    <entry key="updateSuccess">修改{0}成功！</entry>
+
+
+    <entry key="unexpectedError">意外错误！</entry>
+	<entry key="noDataError">{0}不存在！</entry>
+    <entry key="addErrorHaveOne">添加{0}错误,{1}已存在</entry>
+    <entry key="addError">添加{0}错误</entry>
+    <entry key="updateError">更新{0}出错</entry>
+    <entry key="deleteError">删除{0}出错</entry>
+</properties>
