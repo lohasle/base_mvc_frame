@@ -4,7 +4,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="Web" />
+          <element id="module-output" name="serverWeb" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.0.0.RELEASE" />
@@ -17,10 +17,10 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.0.0.RELEASE" />
           <element id="archive" name="Bo-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="Bo" />
+            <element id="module-output" name="serverBo" />
           </element>
           <element id="archive" name="Dao-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="Dao" />
+            <element id="module-output" name="serverDao" />
           </element>
           <element id="library" level="project" name="Maven: org.springframework:spring-orm:4.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.0.0.RELEASE" />
@@ -65,7 +65,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="D:\workspace\base_mvc_frame\base_mvc_frame\Web\target/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="Web/web/Web" />
+      <element id="javaee-facet-resources" facet="serverWeb/web/Web" />
     </root>
   </artifact>
 </component>

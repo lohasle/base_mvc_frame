@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/serverBo/Bo.iml" filepath="$PROJECT_DIR$/serverBo/Bo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/serverDao/Dao.iml" filepath="$PROJECT_DIR$/serverDao/Dao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/serverWeb/Web.iml" filepath="$PROJECT_DIR$/serverWeb/Web.iml" />
       <module fileurl="file://$PROJECT_DIR$/base_mvc_frame.iml" filepath="$PROJECT_DIR$/base_mvc_frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverBo/serverBo.iml" filepath="$PROJECT_DIR$/serverBo/serverBo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverDao/serverDao.iml" filepath="$PROJECT_DIR$/serverDao/serverDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverWeb/serverWeb.iml" filepath="$PROJECT_DIR$/serverWeb/serverWeb.iml" />
     </modules>
   </component>
 </project>

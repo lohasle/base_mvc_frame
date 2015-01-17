@@ -15,8 +15,8 @@
         </developer>
     </developers>
     <modules>
-        <module>Dao</module>
-        <module>Bo</module>
+        <module>serverDao</module>
+        <module>serverBo</module>
     </modules>
 
 

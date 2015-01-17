@@ -27,12 +27,16 @@
         <module name="s4m3_base_frame_web" />
         <module name="serverBo" />
         <module name="serverDao" />
+        <module name="serverWeb" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.7">
       <module name="Bo" target="1.7" />
       <module name="Dao" target="1.7" />
       <module name="s4m3_base_frame_web" target="1.7" />
+      <module name="serverBo" target="1.7" />
+      <module name="serverDao" target="1.7" />
+      <module name="serverWeb" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

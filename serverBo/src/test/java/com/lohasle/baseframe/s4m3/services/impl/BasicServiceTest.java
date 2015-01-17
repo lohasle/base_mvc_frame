@@ -7,5 +7,4 @@ import com.lohasle.baseframe.s4m3.services.SpringTransactionalTestCase;
  */
 public class BasicServiceTest extends SpringTransactionalTestCase {
 
-
 }

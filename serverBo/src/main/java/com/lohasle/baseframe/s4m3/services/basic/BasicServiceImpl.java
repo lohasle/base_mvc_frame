@@ -20,8 +20,6 @@ import java.util.Date;
 public class BasicServiceImpl  implements BasicService,MessageSourceAware {
 
 
-
-
     /**
      * 兼容系统的pagebean
      */
