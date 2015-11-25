@@ -19,3 +19,5 @@
 >3.安装完成之后，配置dao模块中generator自动化SQL配置文件。
 >
 >4.打开项目，调试运行，maven 项目你懂的。
+
+项目更新 已移动 https://github.com/lohasle/bf
